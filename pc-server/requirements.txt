@@ -1,0 +1,5 @@
+# Core Windows Virtual Controller Backend (ViGEmBus client)
+vgamepad>=0.3.3
+
+# Local Network mDNS / DNS-SD Service Discovery
+zeroconf>=0.131.0

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LANGamepad" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#090A0C</item>
+        <item name="android:navigationBarColor">#090A0C</item>
+    </style>
+
+    <style name="Theme.LANGamepad.Fullscreen" parent="Theme.LANGamepad">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:keepScreenOn">true</item>
+    </style>
+</resources>

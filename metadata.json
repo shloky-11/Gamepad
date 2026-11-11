@@ -1,0 +1,6 @@
+{
+  "name": "LAN Gamepad — Wireless Controller",
+  "description": "Transform your Android smartphone into a low-latency wireless Xbox 360 physical-style controller for Windows 10/11 games over local Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
